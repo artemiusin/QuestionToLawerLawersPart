@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214410931399",
+    "project_id": "askquestion-cd36f",
+    "storage_bucket": "askquestion-cd36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214410931399:android:33f440aee8296400d2e2e2",
+        "android_client_info": {
+          "package_name": "com.example.askquestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214410931399-k7kmto9cvbqugo48f2a9sv3oaaebnnp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzv_Riv-V51cbGolKt1xiLT3Ei7ktfOTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214410931399-k7kmto9cvbqugo48f2a9sv3oaaebnnp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
